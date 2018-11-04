@@ -1,15 +1,15 @@
 {
-  "main.css": "https://miketamis.github.io/htmljs-react/static/css/main.a3369608.chunk.css",
-  "main.js": "https://miketamis.github.io/htmljs-react/static/js/main.f09e40b9.chunk.js",
-  "main.js.map": "https://miketamis.github.io/htmljs-react/static/js/main.f09e40b9.chunk.js.map",
-  "static/css/1.8d6bb9f6.chunk.css": "https://miketamis.github.io/htmljs-react/static/css/1.8d6bb9f6.chunk.css",
-  "static/js/1.60399183.chunk.js": "https://miketamis.github.io/htmljs-react/static/js/1.60399183.chunk.js",
-  "static/js/1.60399183.chunk.js.map": "https://miketamis.github.io/htmljs-react/static/js/1.60399183.chunk.js.map",
-  "runtime~main.js": "https://miketamis.github.io/htmljs-react/static/js/runtime~main.497139a8.js",
-  "runtime~main.js.map": "https://miketamis.github.io/htmljs-react/static/js/runtime~main.497139a8.js.map",
-  "static/css/main.a3369608.chunk.css.map": "https://miketamis.github.io/htmljs-react/static/css/main.a3369608.chunk.css.map",
-  "static/css/1.8d6bb9f6.chunk.css.map": "https://miketamis.github.io/htmljs-react/static/css/1.8d6bb9f6.chunk.css.map",
-  "index.html": "https://miketamis.github.io/htmljs-react/index.html",
-  "precache-manifest.c3c75fb7d85d6da725534657e03be6a3.js": "https://miketamis.github.io/htmljs-react/precache-manifest.c3c75fb7d85d6da725534657e03be6a3.js",
-  "service-worker.js": "https://miketamis.github.io/htmljs-react/service-worker.js"
+  "main.css": "/static/css/main.290e12b5.chunk.css",
+  "main.js": "/static/js/main.f217d2a2.chunk.js",
+  "main.js.map": "/static/js/main.f217d2a2.chunk.js.map",
+  "static/css/1.540bfbd5.chunk.css": "/static/css/1.540bfbd5.chunk.css",
+  "static/js/1.74abc30b.chunk.js": "/static/js/1.74abc30b.chunk.js",
+  "static/js/1.74abc30b.chunk.js.map": "/static/js/1.74abc30b.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.290e12b5.chunk.css.map": "/static/css/main.290e12b5.chunk.css.map",
+  "static/css/1.540bfbd5.chunk.css.map": "/static/css/1.540bfbd5.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.7f6906aa42218e88b732538698b66992.js": "/precache-manifest.7f6906aa42218e88b732538698b66992.js",
+  "service-worker.js": "/service-worker.js"
 }
